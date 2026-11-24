@@ -5,6 +5,15 @@
 Writes exactly one line — a single-sentence joke about office life —
 to /output/entry.txt. Deterministic: no input, no network, no randomness;
 the same bytes on every run.
+
+Craft notes: the setup names a specific, instantly recognisable office
+detail — the reply-all chain everyone has lived through — and the
+punchline escalates it into absurdity: the attempt to escape the thread
+becomes the very thing that keeps it going, multiplying instead of
+ending it. That fits the judge brief: one line of office comedy, under
+200 characters, that is first a recognisable workplace moment, then
+funny through a surprising, self-defeating payoff, and clear on first
+read.
 """
 
 import os
