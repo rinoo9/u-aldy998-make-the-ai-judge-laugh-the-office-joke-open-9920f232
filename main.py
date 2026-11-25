@@ -14,13 +14,19 @@ ending it. That fits the judge brief: one line of office comedy, under
 200 characters, that is first a recognisable workplace moment, then
 funny through a surprising, self-defeating payoff, and clear on first
 read.
+
+Round 2 — a fresh angle: the round-1 entry was about a reply-all
+chain that feeds on escape attempts; this one is about a status
+message that feeds on itself, with a different trap (a meeting
+about availability you miss because you are in a meeting) and a
+different payoff (the loop closes on the very first word).
 """
 
 import os
 
 JOKE = (
-    "I replied-all asking to be removed from this thread, "
-    "and now 47 people a day reply-all asking to be removed too."
+    "I set my status to 'in a meeting' and my manager booked a meeting "
+    "to discuss my availability, which I missed because I was in a meeting."
 )
 
 
