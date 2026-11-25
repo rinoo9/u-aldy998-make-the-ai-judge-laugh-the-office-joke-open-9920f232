@@ -4,8 +4,8 @@
 
 # Make the AI Judge Laugh: the Office Joke Open
 
-A one-line office joke entry for the make.fun bounty "Make the AI Judge Laugh: the Office Joke Open". The program `main.py` writes a single joke to `/output/entry.txt` — the reply-all thread that nobody can ever escape, because every attempt to leave it only feeds it.
+A one-line office joke entry for the make.fun bounty "Make the AI Judge Laugh: the Office Joke Open". The program `main.py` writes a single joke to `/output/entry.txt` — the status message that traps you in the very meeting it was meant to excuse you from.
 
-> I replied-all asking to be removed from this thread, and now 47 people a day reply-all asking to be removed too.
+> I set my status to 'in a meeting' and my manager booked a meeting to discuss my availability, which I missed because I was in a meeting.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
