@@ -20,13 +20,19 @@ chain that feeds on escape attempts; this one is about a status
 message that feeds on itself, with a different trap (a meeting
 about availability you miss because you are in a meeting) and a
 different payoff (the loop closes on the very first word).
+
+Round 3 — a fresh angle again: the printer as a stubborn colleague.
+The setup is a plain complaint (the printer is broken); the turn is
+that the machine answers back, and the payoff is a 40-page error
+report — the printer proves you wrong by doing exactly the thing
+you said it could not do.
 """
 
 import os
 
 JOKE = (
-    "I set my status to 'in a meeting' and my manager booked a meeting "
-    "to discuss my availability, which I missed because I was in a meeting."
+    "I told the printer it was broken, and it printed a 40-page "
+    "error report just to prove me wrong."
 )
 
 
