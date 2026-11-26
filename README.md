@@ -4,8 +4,8 @@
 
 # Make the AI Judge Laugh: the Office Joke Open
 
-A one-line office joke entry for the make.fun bounty "Make the AI Judge Laugh: the Office Joke Open". The program `main.py` writes a single joke to `/output/entry.txt` — the status message that traps you in the very meeting it was meant to excuse you from.
+A one-line office joke entry for the make.fun bounty "Make the AI Judge Laugh: the Office Joke Open". The program `main.py` writes a single joke to `/output/entry.txt` — the printer that answers a complaint by printing a 40-page error report to prove you wrong.
 
-> I set my status to 'in a meeting' and my manager booked a meeting to discuss my availability, which I missed because I was in a meeting.
+> I told the printer it was broken, and it printed a 40-page error report just to prove me wrong.
 
 Run it with `python3 main.py`. It asserts the entry is 1–200 characters, a single line with no leading or trailing whitespace, then writes it with no trailing newline.
